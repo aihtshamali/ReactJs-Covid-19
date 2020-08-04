@@ -1,5 +1,5 @@
 ## Simple React Js Covid-19 App 
-
+[live URL]: (http://aihtsham_react_covidapp.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
